@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+openai:
+  token: 您的秘钥
+  timeout: 5000
